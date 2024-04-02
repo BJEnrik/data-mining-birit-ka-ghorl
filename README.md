@@ -19,6 +19,7 @@ This project aims to build a recommender engine that determines the top five son
 <h1 style="color:#000000">VIII. Results and Discussion</h1>
 
 <span style="font-size: 20px"><b>Why we use cosine similarity instead of $L_p$-norm?</b><p>&nbsp; </p> </span>
+
 <b>$L_p$-norm</b> is basically the distance between two vectors or points. The $L_p$-norm between two vectors $\vec v_1$ and $\vec v_2$ is
 $$L_p(\vec v_1, \vec v_2) = \left(\sum_i \left| \vec v_{1_i} - \vec v_{2_i} \right|^p \right)^{1/p}$$
 
